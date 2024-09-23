@@ -43,7 +43,7 @@ Welcome to **LASmasterEditor**! This app simplifies **LAS file management** for 
 
 ## 📫 **Reach Me At:**
 - LinkedIn: [https://linkedin.com/in/harsh-prajapati-682b63287/](#)
-- Email: harshrprajapati27.com
+- Email: harshrprajapati27@gmail.com
 
 ---
 
