@@ -1,53 +1,64 @@
 # Hi there, I’m Harsh! 👋 
 
-🚀 **Aspiring Python Developer** with a passion for creating intuitive tools to solve real-world problems. 
+🚀 **Aspiring Python Developer** passionate about creating intuitive, user-friendly tools to solve real-world problems.
+
+[![LinkedIn](https://img.shields.io/badge/-Harsh_Prajapati-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harsh-prajapati-682b63287)](https://www.linkedin.com/in/harsh-prajapati-682b63287/)
+[![Gmail](https://img.shields.io/badge/-harshrprajapati27@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:harshrprajapati27@gmail.com)](mailto:harshrprajapati27@gmail.com)
 
 ---
 
-## 👀 **What I’m Interested In:**
-- Data Science and Machine Learning.
-- Building interactive web applications.
-- Open-source collaborations.
+## 👨‍💻 **About Me:**
+
+I’m an aspiring Python developer skilled in creating web and desktop applications. I have a strong foundation in **data science** and love building tools that make complex analysis more accessible. Currently, I'm exploring advanced technologies like **PyQt** and **JavaScript** to expand my toolkit.
+
+---
+
+## 🔧 **Technologies & Tools:**
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![PyQt](https://img.shields.io/badge/-PyQt-41CD52?style=flat&logo=qt&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## 🌱 **What I’m Currently Learning:**
 - Advanced Python libraries for data visualization and app development.
-- Optimizing web app performance with Streamlit.
+- **Streamlit** for web app performance optimization.
+- **PyQt** for building desktop applications.
+- **JavaScript** for interactive web development.
 
 ---
 
 ## 💻 **My Projects:**
 
-### 🔍 [**PETROHARRIT**](https://petroharrit01b.streamlit.app/)
-An interactive platform for **comprehensive petrophysical analysis**.
-- 🛠️ Provides a range of features to meet all your petrophysical needs.
-- 📊 Designed to facilitate quick data visualization and interpretation.
-- 🧑‍🏫 Ideal for geoscientists and engineers who need to analyze well logs and interpret petrophysical properties.
-
----
+### 🔍 [**PETROHARRIT**](https://petroharrit01.streamlit.app/)
+An interactive platform for **comprehensive petrophysical analysis**:
+- 🛠️ Offers a range of features for all your petrophysical needs.
+- 📊 Facilitates quick data visualization and interpretation.
+- 🧑‍🏫 Ideal for geoscientists and engineers working with well logs and petrophysical data.
 
 ### 📂 [**LASmasterEditor**](https://lasmastereditor.streamlit.app/)
-Welcome to **LASmasterEditor**! This app simplifies **LAS file management** for petrophysical data with the following features:
-- ✂️ Create a new LAS file with **specified curves**, ensuring the desired curves are present in the original LAS file.
-- ⏬ Generate LAS files with a **specified depth range**, making sure the required depth is included from the original file.
-- 🔄 Merge multiple LAS files, combining the **largest depth range** for all curves, assuming they represent the same well.
-  
+A powerful app for **managing LAS files**:
+- ✂️ Create new LAS files with specified curves.
+- ⏬ Generate LAS files with custom depth ranges.
+- 🔄 Merge multiple LAS files, combining the largest depth range for all curves in a well.
+
 ---
 
 ## 💞️ **Looking to Collaborate On:**
-- Projects that combine data science, machine learning, and app development.
-- Open-source petrophysical tools.
-  
+- Data science, machine learning, and app development projects.
+- Open-source petrophysical tools for the scientific community.
+
 ---
 
 ## 📫 **Reach Me At:**
-- LinkedIn: [https://linkedin.com/in/harsh-prajapati-682b63287/](#)
+- LinkedIn: [Harsh Prajapati](https://www.linkedin.com/in/harsh-prajapati-682b63287/)
 - Email: harshrprajapati27@gmail.com
 
 ---
 
----
-
 ## ⚡ **Fun Fact:**
-I’ve created two web apps and I’m just getting started! 🚀
+I’ve already deployed two apps, and this is just the beginning! 🚀
