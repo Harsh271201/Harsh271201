@@ -42,12 +42,10 @@ Welcome to **LASmasterEditor**! This app simplifies **LAS file management** for 
 ---
 
 ## 📫 **Reach Me At:**
-- LinkedIn: [Your LinkedIn Profile](#)
-- Email: your.email@example.com
+- LinkedIn: [https://linkedin.com/in/harsh-prajapati-682b63287/](#)
+- Email: harshrprajapati27.com
 
 ---
-
-## 😄 Pronouns: He/Him
 
 ---
 
