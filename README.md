@@ -9,7 +9,7 @@
 
 ## 👨‍💻 **About Me:**
 
-I’m an aspiring Python developer skilled in creating web and desktop applications. I have a strong foundation in **data science** and love building tools that make complex analysis more accessible. Currently, I'm exploring advanced technologies like **PyQt** and **JavaScript** to expand my toolkit.
+I’m an aspiring Python developer skilled in creating desktop and web applications. I have a strong foundation in **data science** and love building tools that make complex analysis more accessible. Currently, I'm exploring advanced technologies like **PyQt** , **C#** and **JavaScript** to expand my toolkit.
 
 ---
 
@@ -30,6 +30,7 @@ I’m an aspiring Python developer skilled in creating web and desktop applicati
 - Advanced Python libraries for data visualization and app development.
 - **Streamlit** for web app performance optimization.
 - **PyQt** for building desktop applications.
+- **.Net** for building desktop applications.
 - **JavaScript** for interactive web development.
 
 ---
